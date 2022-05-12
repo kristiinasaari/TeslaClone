@@ -3,6 +3,8 @@ import { View, Text, FlatList, Dimensions } from "react-native";
 import styles from "./styles";
 import cars from "./cars";
 import CarItem from "../CarItem";
+import { NavigationContainer } from '@react-navigation/native-stack';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 const CarList = (props) => {
     return (
