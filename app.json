@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Mockup of Tesla's web page",
+    "githubUrl": "https://github.com/kristiinasaari/TeslaClone"
   }
 }
